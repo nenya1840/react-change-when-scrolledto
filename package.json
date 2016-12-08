@@ -2,7 +2,7 @@
   "name": "react-change-when-scrolledto",
   "version": "1.0.0",
   "description": "React Component Wrapper that change child properties when scrolled to",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "start-dev": "webpack-dev-server --content-base example",
     "test": "echo \"Error: no test specified\" && exit 1"
