@@ -1,0 +1,39 @@
+body, pre {
+  margin: 0;
+}
+code {
+  line-height: 1.5em;
+  font-size: 16px;
+}
+.example {
+  padding: 40px 0;
+  text-align: center;
+}
+pre {
+  padding: 40px 0;
+  text-align: center;
+  background-color: lightblue;
+}
+.text-center {
+  text-align: center;
+}
+.intro {
+  font-size: 60px;
+  padding: 40px 0;
+  background-color: black;
+  color: #fff;
+}
+.helloworld, .fly {
+  transition: 2s;
+}
+.inline-block {
+  display: inline-block;
+  text-align: left;
+}
+.fly {
+  position: relative;
+  left: -200px;
+}
+.fly.newcls {
+  left: 400px;
+}
